@@ -9,3 +9,6 @@
   - [应用视觉设计指导](src/02APP_DESIGN.md)  
   - [应用无障碍](src/03ApplicationAccessibility.md) 
   - [响应式web网站设计](src/04ResponsiveAndAdaptive.md)
+- ES6
+  - [setter与getter](src/05SetAndGet.js)
+  - [import与require](src/06import&require.md)
