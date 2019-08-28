@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>CSS变量</title>
+    <style>
+        /* 一般在这里定义变量`:root`，相当于html,body */
+        :root {
+            --BG_VARIABLE: pink;
+        }
+
+
+        .box {
+            width: 100px;
+            height: 200px;
+            /* 变量的使用，可以额外添加一个参数，当变量不可用时，可以返回 */
+            background-color: var(--BG_VARIABLE,black);
+            /* 变量重写而不污染全局 */
+            --BG_VARIABLE: RED;
+        }
+    </style>
+</head>
+<body>
+ <div class="box">
+
+ </div>
+</body>
+</html>
