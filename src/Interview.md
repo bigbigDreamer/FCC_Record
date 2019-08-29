@@ -24,7 +24,7 @@
 
 而width: auto;其实是坑人的，因为元素的默认width 就是auto，而inline-block 元素的宽是内容宽度
 
-这个时候我们看子元素<i>,它设置了position: absolute;同样脱离的文档流，它并不会影响父元素，所以span 的width:0px;
+这个时候我们看子元素<i> , 它设置了position: absolute; 同样脱离的文档流，它并不会影响父元素，所以span 的width:0px;
 
 - 2.请选择下面的行内块级元素：（A、B、C）
 
