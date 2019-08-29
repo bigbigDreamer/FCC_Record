@@ -12,7 +12,7 @@
 
 **答：width = 0px，height = 200px**
 
-**解析：** 在W3C标准解析中，float 会使元素脱离文档流，并且浮动元素会生成一个块级框，而不论它是块级或者行内元素    
+**解析：**  在W3C标准解析中，float 会使元素脱离文档流，并且浮动元素会生成一个块级框，而不论它是块级或者行内元素    
 
 对于这个块级框我是这样理解的：它把这个元素变成了一个（类似）行内块级元素，也就是inline-block，当你把题中float: left; 替换为 display: inline-block;          
 
@@ -29,3 +29,29 @@
 - 2.请选择下面的行内块级元素：（A、B、C）
 
 A、input   &emsp;    B、button  &emsp;       C、img   &emsp;   D、span
+
+- 3.执行代码说明答案
+
+```javascript
+Promise.resolve(1)
+.then(2)
+.then(Promise.resolve(3))
+.then(console.log)
+```
+**答案解析：** Promise的then方法传递参数期望是函数，如果不是函数则会发生值穿透，所以打印结果为3也就不奇怪了。
+
+- 4.执行代码说明结果
+
+```javascript
+var promise = new Promise((resolve,reject)=> {
+     resolve(true);
+     reject(false);
+})
+
+promise.then(data => {
+    console.log(data)
+})
+//true;考虑为什么不会为reject报错
+```
+
+**答案解析：** 因为Promise的状态一旦改变就无法发生变更。
