@@ -14,5 +14,5 @@
   - [import与require](src/06import&require.md)
   
 - [终极面试篇](src/Interview.md)
-- [日常提升记录]
+- 日常提升记录
   - [链式调用--2019/10/8](./daily/ChainedCall.md)
