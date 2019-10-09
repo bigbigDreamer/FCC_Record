@@ -2,7 +2,7 @@
 
 ## 此仓库为EricWang个人知识能力拓展与提升记录！
 
-## 目录 
+## 目录  
 
 - CSS篇
   - [CSS变量的声明、使用与重写](src/01cssvariable.html)
@@ -15,4 +15,5 @@
   
 - [终极面试篇](src/Interview.md)
 - 日常提升记录
-  - [链式调用--2019/10/8](./daily/ChainedCall.md)
+  - [链式调用--2019/10/8](./daily/2019/10/ChainedCall.md)
+  - [Vue数据双向绑定原理](./daily)
