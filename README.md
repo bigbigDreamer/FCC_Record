@@ -17,3 +17,5 @@
 - 日常提升记录
   - [链式调用--2019/10/8](./daily/2019/10/ChainedCall.md)
   - [Vue数据双向绑定原理--2019/10/9](./daily/2019/10/Vue数据双向绑定.md)
+  - [React嵌套二级路由--2019/10/10](https://github.com/bigbigDreamer/PersonalWebSite/issues/2)
+  - [Mock.js如何去使用？--2019/10/11](https://github.com/bigbigDreamer/PersonalWebSite/issues/1)
