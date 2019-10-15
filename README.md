@@ -12,6 +12,8 @@
 - ES6
   - [setter与getter](src/05SetAndGet.js)
   - [import与require](src/06import&require.md)
+- 设计模式
+  - [构造器模式]() 
   
 - [终极面试篇](src/Interview.md)
 - 日常提升记录
