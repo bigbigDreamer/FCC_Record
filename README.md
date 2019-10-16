@@ -12,8 +12,12 @@
 - ES6
   - [setter与getter](src/05SetAndGet.js)
   - [import与require](src/06import&require.md)
-- 设计模式
+- 设计模式 
   - [构造器模式](./src/07ConstructorMode.md) 
+- TypeScript
+  - [参考：TypeScript入门](https://ts.xcatliu.com/)
+  - [第一篇：邂逅TypeScript](./src/ts_notes/01邂逅TS.md)
+  - [第二篇：数据类型](#)
   
 - [终极面试篇](src/Interview.md)
 - 日常提升记录
