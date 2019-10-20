@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Mock.js</title>
+    <script src="http://mockjs.com/dist/mock.js"></script>
+    <script src="https://cdn.bootcss.com/axios/0.19.0-beta.1/axios.min.js"></script>
+    <script src="https://cdn.bootcss.com/qs/6.8.0/qs.min.js"></script>
+    <script>
+        Mock.mock(/http:\/\/com\.cn\/getAll/,'get',options => {
+
+            const {url} = options;
+            const res = url.slice(url.indexOf('?')+1,);
+            console.log(Qs.parse(res));
+
+            return {
+                status:200,
+                msg:'success'
+            }
+        })
+    </script>
+
+    <script>
+        axios.get('http://com.cn/getAll',{
+            params:{
+                token:'45564154d54'
+            }
+        })
+            .then(data => {
+                console.log(data)
+            })
+    </script>
+</head>
+<body>
+
+</body>
+</html>

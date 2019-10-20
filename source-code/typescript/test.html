@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="07.js"></script>
+</head>
+<body>
+<button id="btn">按我</button>
+<script>
+    const oop = new Options('btn')
+        oop.select();
+        addEventListener('click',() => {
+            oop.option(()=>{
+                console.log('别点我了')
+            },800)
+        })
+</script>
+</body>
+</html>
