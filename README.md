@@ -2,6 +2,10 @@
 
 ## 此仓库为EricWang个人知识能力拓展与提升记录！
 
+======= Congratulatory ========
+# 1024 Happy  Day!!!
+=========== Done! =============
+
 ## 目录  
 
 - CSS篇
@@ -31,3 +35,5 @@
   - [How to enable <video> and <audio> tags in all major browsers--2019/10/16](https://html5media.info/)
   - [我热爱正则--2019/10/16](http://leaverou.github.io/regexplained/)
   - [如何使用Mock.js--2019/10/20](./daily/2019/10/如何使用Mock.md)
+  - [Git提交规范--2019/10/24](https://github.com/bigbigDreamer/FCC_Record/issues/6)
+  
