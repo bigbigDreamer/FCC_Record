@@ -24,6 +24,9 @@
   - [第二篇：数据类型(多值类型与联合类型)](./src/ts_notes/02ts数据类型(多值类型与联合类型).md)
   - [第三篇：泛型](./src/ts_notes/03ts泛型.md)
   
+- 算法与数据结构
+  - [开篇：算法与数据结构好书推荐](https://www.jianshu.com/p/75102d69e546)
+  
 - [终极面试篇](src/Interview.md)
 - 日常提升记录
   - [链式调用--2019/10/8](./daily/2019/10/ChainedCall.md)
