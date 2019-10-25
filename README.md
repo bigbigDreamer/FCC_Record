@@ -2,6 +2,10 @@
 
 ## 此仓库为EricWang个人知识能力拓展与提升记录！
 
+======= Congratulatory ========
+# 1024 Happy  Day!!!
+=========== Done! =============
+
 ## 目录  
 
 - CSS篇
@@ -18,6 +22,10 @@
   - [参考：TypeScript入门](https://ts.xcatliu.com/)
   - [第一篇：邂逅TypeScript](./src/ts_notes/01邂逅TS.md)
   - [第二篇：数据类型(多值类型与联合类型)](./src/ts_notes/02ts数据类型(多值类型与联合类型).md)
+  - [第三篇：泛型](./src/ts_notes/03ts泛型.md)
+  
+- 算法与数据结构
+  - [开篇：算法与数据结构好书推荐](https://www.jianshu.com/p/75102d69e546)
   
 - [终极面试篇](src/Interview.md)
 - 日常提升记录
@@ -31,3 +39,5 @@
   - [How to enable <video> and <audio> tags in all major browsers--2019/10/16](https://html5media.info/)
   - [我热爱正则--2019/10/16](http://leaverou.github.io/regexplained/)
   - [如何使用Mock.js--2019/10/20](./daily/2019/10/如何使用Mock.md)
+  - [Git提交规范--2019/10/24](https://github.com/bigbigDreamer/FCC_Record/issues/6)
+  
