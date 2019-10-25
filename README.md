@@ -22,6 +22,7 @@
   - [参考：TypeScript入门](https://ts.xcatliu.com/)
   - [第一篇：邂逅TypeScript](./src/ts_notes/01邂逅TS.md)
   - [第二篇：数据类型(多值类型与联合类型)](./src/ts_notes/02ts数据类型(多值类型与联合类型).md)
+  - [第三篇：泛型](./src/ts_notes/03ts泛型.md)
   
 - [终极面试篇](src/Interview.md)
 - 日常提升记录
