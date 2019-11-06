@@ -19,7 +19,7 @@
 - 设计模式 
   - [构造器模式](./src/07ConstructorMode.md) 
 - TypeScript
-  - [参考：TypeScript入门](https://ts.xcatliu.com/)
+  - [参考：TypeScript入门](https://ts.xcatliu.com/)   
   - [第一篇：邂逅TypeScript](./src/ts_notes/01邂逅TS.md)
   - [第二篇：数据类型(多值类型与联合类型)](./src/ts_notes/02ts数据类型(多值类型与联合类型).md)
   - [第三篇：泛型](./src/ts_notes/03ts泛型.md)
