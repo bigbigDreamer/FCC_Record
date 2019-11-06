@@ -1,7 +1,7 @@
 /**
  * @time  2019/8/28 14:05
  * @author  Eric Wang <vuejs@vip.qq.com>
- * @desc  玩玩es6的set与get
+ * @desc  玩玩es6的set与get  ...
  */
 
 class Person {
