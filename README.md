@@ -1,14 +1,6 @@
 # FCC拓展知识
 
-## 此仓库为EricWang个人知识能力拓展与提升记录！
-
-==============================
-# 通知：终于把工作环境搬迁到了linux下
-==============================
-
-======= Congratulatory ========
-# 1024 Happy  Day!!!
-=========== Done! =============
+## 此仓库仅为EricWang个人知识能力拓展与提升记录，禁止fork！
 
 ## 目录  
 
@@ -49,4 +41,8 @@
   - [如何使用Mock.js--2019/10/20](./daily/2019/10/如何使用Mock.md)
   - [Git提交规范--2019/10/24](https://github.com/bigbigDreamer/FCC_Record/issues/6)
   - [公司开发Git常用操作记录--2019/10/31](daily/2019/10/公司开发常用git命令.md)
+  
+## LICENSE [Apache License 2.0](https://github.com/bigbigDreamer/FCC_Record/blob/master/LICENSE)
+
+Copyright@By EricWang
   
