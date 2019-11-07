@@ -14,6 +14,7 @@
   - [import与require](src/06import&require.md)
 - 设计模式 
   - [构造器模式](./src/07ConstructorMode.md) 
+  - [模块模式](./src/08ModuleMode.md)
 - TypeScript
   - [参考：TypeScript入门](https://ts.xcatliu.com/)   
   - [第一篇：邂逅TypeScript](./src/ts_notes/01邂逅TS.md)
