@@ -5,7 +5,8 @@ function f(args, age) {
     return args;
 }
 f('Hash', 18);
-/*
- * 泛型接口
- */
+var objs = {
+    name: "张三",
+    age: 18
+};
 //# sourceMappingURL=10.js.map

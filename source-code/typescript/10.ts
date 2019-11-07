@@ -10,3 +10,13 @@ f<string,number>('Hash',18);
 /*
  * 泛型接口
  */
+
+interface MyInterface<T> {
+    name: T,
+    age: number
+}
+
+const objs:MyInterface<string> = {
+    name: "张三",
+    age: 18
+}
