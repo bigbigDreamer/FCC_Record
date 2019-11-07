@@ -15,6 +15,10 @@
 - 设计模式 
   - [构造器模式](./src/07ConstructorMode.md) 
   - [模块模式](./src/08ModuleMode.md)
+  - [观察者模式](./src/09ObserverMode.md)
+  - [发布订阅模式](./src/10PubSubMode.md)
+  - [工厂函数模式]()
+  - [单例模式]()
 - TypeScript
   - [参考：TypeScript入门](https://ts.xcatliu.com/)   
   - [第一篇：邂逅TypeScript](./src/ts_notes/01邂逅TS.md)
@@ -42,6 +46,7 @@
   - [如何使用Mock.js--2019/10/20](./daily/2019/10/如何使用Mock.md)
   - [Git提交规范--2019/10/24](https://github.com/bigbigDreamer/FCC_Record/issues/6)
   - [公司开发Git常用操作记录--2019/10/31](daily/2019/10/公司开发常用git命令.md)
+  - [浅谈发布订阅模式与观察者模式的区别--2019/11/7](daily/2019/11/浅谈发布订阅模式与观察者模式的区别.md)
   
 ## LICENSE [Apache License 2.0](https://github.com/bigbigDreamer/FCC_Record/blob/master/LICENSE)
 
