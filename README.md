@@ -47,6 +47,8 @@
   - [Git提交规范--2019/10/24](https://github.com/bigbigDreamer/FCC_Record/issues/6)
   - [公司开发Git常用操作记录--2019/10/31](daily/2019/10/公司开发常用git命令.md)
   - [浅谈发布订阅模式与观察者模式的区别--2019/11/7](daily/2019/11/浅谈发布订阅模式与观察者模式的区别.md)
+  - [标准的git合并分支规范--2019/11/7](daily/2019/11/标准的git合并分支规范.md)
+  - [检测你的终端设备--2019/11/7](https://clientjs.org/)
   
 ## LICENSE [Apache License 2.0](https://github.com/bigbigDreamer/FCC_Record/blob/master/LICENSE)
 
