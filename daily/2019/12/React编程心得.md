@@ -8,4 +8,6 @@
 &emsp;&emsp;尽量多使用propTypes去强制校验组件的入参props，尽量的去减少类型错误。对于一些支撑组件核心运转的
 配置项，也需加入isRequired去强制要求传入。
 
-&emsp;&emsp;傻瓜组件与聪明组件的合理使用.....
+&emsp;&emsp;傻瓜组件与聪明组件的合理使用。父子组件拆分。
+
+&emsp;&emsp;
