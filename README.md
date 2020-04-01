@@ -53,6 +53,7 @@
   - [虚拟代理-你值得拥有的图片预加载--2020/04/01](daily/2020/04/虚拟代理-图片预加载.md)
 - 777号踩坑心得
   - [ios设备行内块元素绝对定位“消失不见”？--2020/04/01](pit-plan/01.md)
+  - [webstorm配置TS运行时环境与自动给编译--2020/04/01](pit-plan/02.md)
   
 ## LICENSE [Apache License 2.0](https://github.com/bigbigDreamer/FCC_Record/blob/master/LICENSE)
 
