@@ -50,8 +50,10 @@
   - [标准的git合并分支规范--2019/11/7](daily/2019/11/标准的git合并分支规范.md)
   - [检测你的终端设备--2019/11/7](https://clientjs.org/)
   - [React编程心得](daily/2019/12/React编程心得.md)
+  - [虚拟代理-你值得拥有的图片预加载--2020/04/01](daily/2020/04/虚拟代理-图片预加载.md)
 - 777号踩坑心得
   - [ios设备行内块元素绝对定位“消失不见”？--2020/04/01](pit-plan/01.md)
+  
 ## LICENSE [Apache License 2.0](https://github.com/bigbigDreamer/FCC_Record/blob/master/LICENSE)
 
 Copyright@By EricWang
