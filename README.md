@@ -55,22 +55,17 @@
   - [ios设备行内块元素绝对定位“消失不见”？--2020/04/01](pit-plan/01.md)
   - [webstorm配置TS运行时环境与自动给编译--2020/04/01](pit-plan/02.md)
   
-## Authors
+## Author
 
 <p> 
 
 <a href="https://github.com/bigbigDreamer">
 <img width="80" height="80" src="https://avatars2.githubusercontent.com/u/39019913?s=460&v=4"/>
 </a>
-
-<a href="https://github.com/sucj0301">
-<img width="80" height="80" src="https://avatars0.githubusercontent.com/u/53329727?s=460&u=e20fd3395c3900cce3416b859c3aefc32ee3e044&v=4"/>
-</a>
-
 </p>
   
 ## LICENSE [Apache License 2.0](https://github.com/bigbigDreamer/FCC_Record/blob/master/LICENSE)
 
-Copyright@By EricWang And Jessa Su
+Copyright@By EricWang
 
   
