@@ -12,6 +12,7 @@
 - ES6
   - [setter与getter](src/05SetAndGet.js)
   - [import与require](src/06import&require.md)
+  - [promise]
 - 设计模式 
   - [构造器模式](./src/07ConstructorMode.md) 
   - [模块模式](./src/08ModuleMode.md)
@@ -51,6 +52,7 @@
   - [检测你的终端设备--2019/11/7](https://clientjs.org/)
   - [React编程心得](daily/2019/12/React编程心得.md)
   - [虚拟代理-你值得拥有的图片预加载--2020/04/01](daily/2020/04/虚拟代理-图片预加载.md)
+  - [变换莫测的this -- 2020/07/12](daily/2020/07/变换莫测的this.md)
 - 777号踩坑心得
   - [ios设备行内块元素绝对定位“消失不见”？--2020/04/01](pit-plan/01.md)
   - [webstorm配置TS运行时环境与自动给编译--2020/04/01](pit-plan/02.md)
