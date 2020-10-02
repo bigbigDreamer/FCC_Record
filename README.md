@@ -2,7 +2,7 @@
 
 ## 开源知识能力拓展与提升记录
 
-## 目录  
+## 目录
 
 - CSS篇
   - [CSS变量的声明、使用与重写](src/01cssvariable.html)
@@ -12,14 +12,11 @@
 - ES6
   - [setter与getter](src/05SetAndGet.js)
   - [import与require](src/06import&require.md)
-  - [promise]
 - 设计模式 
   - [构造器模式](./src/07ConstructorMode.md) 
   - [模块模式](./src/08ModuleMode.md)
   - [观察者模式](./src/09ObserverMode.md)
   - [发布订阅模式](./src/10PubSubMode.md)
-  - [工厂函数模式]()
-  - [单例模式]()
 - TypeScript
   - [参考：TypeScript入门](https://ts.xcatliu.com/)   
   - [第一篇：邂逅TypeScript](./src/ts_notes/01邂逅TS.md)
@@ -30,7 +27,8 @@
   - [开篇：算法与数据结构好书推荐](https://www.jianshu.com/p/75102d69e546)
   - [算法时间复杂度----《漫画算法》读书笔记--2019/10/29](./src/algorithm/01时间复杂度.md)
   - [怎么计算算法时间与空间复杂度？--2020/09/16](daily/2020/09/怎么计算算法时间与空间复杂度.md)
-  - [快排很难吗？--2020/10/02](daily/2020/09/快排很难吗.md)
+  - [快排很难吗？--2020/10/02](daily/2020/10/快排很难吗.md)
+  - [冒泡排序 --2020/10/03](daily/2020/10/日常冒泡.md)
 - 不成文规定
   - [此章节待定]
  
